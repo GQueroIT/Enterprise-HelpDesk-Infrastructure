@@ -4,7 +4,7 @@ This section documents the full build of an on-premises Active Directory environ
 
 ---
 
-## 🧱 Environment Overview
+## Environment Overview
 
 - Windows Server (Domain Controller)
 - Domain: `corp.smartech.com`
@@ -14,7 +14,7 @@ This section documents the full build of an on-premises Active Directory environ
 
 ---
 
-## ⚙️ Build Steps
+## Build Steps
 
 ### Step 01 – Network Setup
 Configured static IP addressing and verified connectivity between systems.
@@ -48,7 +48,7 @@ Tested user logins and validated access to shared resources.
 
 ---
 
-## 🔥 Step 11 – Help Desk Delegation (Workstations OU)
+## Step 11 – Help Desk Delegation (Workstations OU)
 
 In this step, I implemented delegation of control for the Help Desk role using the `IT_Admins` group.
 
@@ -108,7 +108,7 @@ Delegation in Active Directory is more granular than it first appears. Permissio
 
 ---
 
-## 🧠 Key Skills Demonstrated
+## Key Skills Demonstrated
 
 - Active Directory Domain Services (AD DS) deployment  
 - Organizational Unit (OU) design  
@@ -121,7 +121,7 @@ Delegation in Active Directory is more granular than it first appears. Permissio
 
 ---
 
-## 📁 Evidence
+## Evidence
 
 All screenshots and supporting files are organized under:
 01-Active-Directory-Build/evidence/
@@ -131,7 +131,7 @@ Each step includes corresponding documentation and validation.
 
 ---
 
-## ✅ Outcome
+## Outcome
 
 Successfully built and configured a functional Active Directory environment with realistic structure and permissions.
 
