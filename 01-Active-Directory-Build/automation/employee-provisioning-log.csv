@@ -1,0 +1,3 @@
+@'
+First,Last,DisplayName,Username,UserPrincipalName,Department,Title,OU,Group,Status,Notes
+'@ | Set-Content "C:\Users\gquer\Documents\GitHub\Enterprise-HelpDesk-M365-Simulation\01-Active-Directory-Build\automation\employee-provisioning-log.csv"
