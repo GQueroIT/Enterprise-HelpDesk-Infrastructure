@@ -10,11 +10,9 @@
   <img src="https://img.shields.io/badge/IT%20Support-Operations-red" />
 </p>
 
-This project represents a structured IT support environment built to reflect real-world Help Desk operations, identity management, ticketing workflows, automation, and system administration.
+This project represents a structured IT support environment designed to reflect real-world Help Desk operations, identity management, ticketing workflows, automation, and system administration.
 
-This environment is actively being built and expanded in phases.
-
-What started as individual components is evolving into a connected system where infrastructure, support workflows, and administrative processes work together.
+This environment is actively being built and expanded in phases, evolving into a connected system where infrastructure, support workflows, and administrative processes operate together.
 
 ---
 
@@ -58,6 +56,18 @@ These are the strongest implemented areas so far:
 - Initial Jira Service Management setup and ticket lifecycle validation  
 
 These represent the foundation of the environment.
+
+---
+
+## Tools & Technologies
+- Windows Server (Active Directory Domain Services)
+- Microsoft 365 (in progress)
+- Jira Service Management
+- ServiceNow (planned)
+- PowerShell
+- VirtualBox
+- Windows Client Systems
+- DNS / Group Policy
 
 ---
 
@@ -131,17 +141,15 @@ This will represent how endpoints are prepared before being handed off to users 
 
 ---
 
-## Key Capabilities Demonstrated
-
-- Active Directory administration and identity management  
-- Organizational Unit (OU) design and delegation  
-- Group Policy (GPO) configuration and enforcement  
-- Role-based access control (AGDLP / RBAC)  
-- PowerShell automation for administrative workflows  
-- User provisioning and lifecycle management  
-- Ticket lifecycle management (Jira Service Management)  
-- Troubleshooting authentication and access issues  
-- Documentation and operational workflow design  
+## Skills Demonstrated
+- Active Directory administration and identity management
+- Help Desk ticket lifecycle management (Jira)
+- Role-based access control (AGDLP / RBAC)
+- PowerShell automation for user provisioning
+- User lifecycle management and onboarding workflows
+- Troubleshooting authentication and access issues
+- Documentation and operational workflow design
+- Understanding of enterprise IT support processes
 
 ---
 
@@ -183,4 +191,4 @@ It reflects how real IT environments are built, supported, and improved over tim
 
 ## Notes
 
-This environment is actively being developed and expanded to better reflect real-world enterprise operations, including deeper cloud integration, automation, and support workflows.
+This project reflects my ability to build, support, and continuously improve an enterprise-style IT environment using structured workflows, automation, and real-world troubleshooting practices.
