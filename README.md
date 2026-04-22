@@ -1,4 +1,4 @@
-# Enterprise IT Support & Microsoft 365 Environment
+# Enterprise Help Desk Infrastructure Environment
 
 <p align="center">
   <img src="https://img.shields.io/badge/Active%20Directory-Identity%20Management-blue" />
